@@ -1,14 +1,4 @@
-<h1 align="center">WebappMattable</h1>
-<h1>
-    <a href="https://www.javascript.com/">🔗
-     Javascript
-     </a>
-
-     <a href="https://dart.dev/">🔗
-     Dart
-     </a>
-</h1>
-
+<h1 align="center">Divisíveis por 3 e 5</h1>
 
 <img src="https://img.shields.io/static/v1?label=DivisiveisPor3e5&message=Greg%C3%B3rioNeto&color=7159c1&style=for-the-badge&logo=ghost">
 
@@ -65,6 +55,7 @@ Como rodar o projeto:
 ````
 
 ```dart
+  /* 
    Dart:
    1- Entrar na pasta 'dart' e com o terminal digitar o comando 'dart main.dart'.
    2- O arquivo 'main.dart' você pode encontrar a função dentro
@@ -73,5 +64,4 @@ Como rodar o projeto:
 
   // Dart:
   print(divisiveisPorTresECinco(10));
-}
 ```
